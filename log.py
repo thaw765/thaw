@@ -1,3 +1,4 @@
+html_code = """
 <!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -112,3 +113,4 @@
 
 </body>
 </html>
+"""
